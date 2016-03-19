@@ -17,7 +17,23 @@ int abs(int a, int b)
 {
 	return a+b;  
 }
+class Shape;
 
+
+
+class Shape
+{
+	friend int GetType();
+private:
+	int type;
+};
+
+int GetType()
+{
+	Shape cShape;
+	return cShape.type;
+
+}
 int _tmain(int argc, _TCHAR* argv[])
 {
 	int x = 1;
