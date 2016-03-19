@@ -23,7 +23,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	int x = 1;
 	int* p = new int(0);
 	*p = 4;
-	int a = sizeof(p);
+	int a = sizeof p ;//== sizeof(p)
 	func = abs;
 
 	PR(func(*p, x));
