@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sizeof_test", "sizeof_test.vcxproj", "{345DA9D8-9E01-4FB6-84B0-9FA4230AFCD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{345DA9D8-9E01-4FB6-84B0-9FA4230AFCD9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{345DA9D8-9E01-4FB6-84B0-9FA4230AFCD9}.Debug|Win32.Build.0 = Debug|Win32
+		{345DA9D8-9E01-4FB6-84B0-9FA4230AFCD9}.Debug|x64.ActiveCfg = Debug|x64
+		{345DA9D8-9E01-4FB6-84B0-9FA4230AFCD9}.Debug|x64.Build.0 = Debug|x64
+		{345DA9D8-9E01-4FB6-84B0-9FA4230AFCD9}.Release|Win32.ActiveCfg = Release|Win32
+		{345DA9D8-9E01-4FB6-84B0-9FA4230AFCD9}.Release|Win32.Build.0 = Release|Win32
+		{345DA9D8-9E01-4FB6-84B0-9FA4230AFCD9}.Release|x64.ActiveCfg = Release|x64
+		{345DA9D8-9E01-4FB6-84B0-9FA4230AFCD9}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
